@@ -16,7 +16,7 @@ This project aims to analyze the total services and revenues provided by various
 * Create a dashboard according to the mock-up provided by stakeholders.
 * Create relevant insights that are not provided in the metric list/mock-up dashboard.
 * Developed a Tableau interactive dashboard to communicate findings with visuals.
-## To Interactive tableau dashbaord Please download file
+## To Interactive tableau dashbaord Please download file(https://public.tableau.com/views/TableauDashbaord_17190464738440/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
   ![Tableau dashboard](https://github.com/Hemasagar2299/Healthcare-Analysis/assets/154252928/3d661ae9-83d9-422a-b4f8-b243cbdfaa00)
 # Conclusion
   This analysis will provide valuable insights into the healthcare sector, helping stakeholders understand the distribution and financial impact of healthcare services. It will also assist in identifying trends and patterns that could inform future decisions and policies in the healthcare industry.
